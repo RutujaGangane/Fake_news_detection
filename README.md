@@ -16,3 +16,5 @@ These results highlight the effectiveness of transformer-based approaches for te
 tasks in fake news detection and demonstrate the value of fine-tuned pretrained models in im
 proving performance over traditional methods. The study also emphasizes the importance of
 tokenizer alignment and careful data preprocessing in enhancing model effectiveness.
+
+All the code files of (BERT,BERT_gpt2,RoBERTa,RoBERTa_gpt2) are in master branch. To check please download it and then check, it has some issues opening here.
